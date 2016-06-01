@@ -1,0 +1,64 @@
+{
+   "result":[
+        {
+        "cover" : "http://img4.cache.netease.com/photo/0096/2016-01-28/400x400_BEEGHD6054GI0096.jpg",
+        "imgsum" : 4,
+        "replynum" : 2740,
+        "setname" : "重庆数十名农民工拉横幅上街讨薪"
+   },
+        {
+        "cover" : "http://img4.cache.netease.com/photo/0096/2016-01-28/400x400_BEEGA39254GI0096.jpg",
+        "imgsum" : 3,
+        "replynum" : 371,
+        "setname" : "孕妇在回乡列车上产子 众人携手搭产房"
+    },
+        {
+        "cover" : "http://img4.cache.netease.com/photo/0096/2016-01-28/BEEE591G6C7J0096.jpg",
+        "imgsum" : 27,
+        "replynum" : 22,
+        "setname" : "文革时75岁李宗仁娶少女为妻"
+   },
+        {
+        "cover" : "http://img4.cache.netease.com/photo/0096/2016-01-28/BEE4CD0H54GI0096.jpg",
+        "imgsum" : 10,
+        "replynum" : 111,
+        "setname" : "法国航母在中东参与打击IS"
+   },
+        {
+        "cover" : "http://img4.cache.netease.com/photo/0096/2016-01-28/BEE46FUM54GI0096.jpg",
+        "imgsum" : 5,
+        "replynum" : 156,
+        "setname" : "希腊农民免费发蔬果遭哄抢"
+   },
+        {
+        "cover" : "http://img4.cache.netease.com/photo/0096/2016-01-28/BEE43TCA54GI0096.jpg",
+        "imgsum" : 7,
+        "replynum" : 226,
+        "setname" : "美占领政府设施的抗议者被捕"
+   },
+        {
+        "cover" : "http://img4.cache.netease.com/photo/0096/2016-01-28/BEE42LGR54GI0096.jpg",
+        "imgsum" : 14,
+        "replynum" : 237,
+        "setname" : "反核奶奶去世 白宫前抗议35年"
+   },
+        {
+        "cover" : "http://img4.cache.netease.com/photo/0096/2016-01-28/BEE411II54GI0096.jpg",
+        "imgsum" : 4,
+        "replynum" : 92,
+        "setname" : "西班牙斗牛士抱着孩子斗牛"
+   },
+        {
+        "cover" : "http://img4.cache.netease.com/photo/0096/2016-01-28/BEE3VH5N54GI0096.jpg",
+        "imgsum" : 10,
+        "replynum" : 184,
+        "setname" : "奥斯威辛集中营解放71周年"
+   },
+        {
+        "cover" : "http://img4.cache.netease.com/photo/0096/2016-01-28/BEE3S1NV54GI0096.jpg",
+        "imgsum" : 10,
+        "replynum" : 860,
+        "setname" : "女销售大声叫卖遭居民枪杀"
+       }
+    ]
+}
